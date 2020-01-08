@@ -1,0 +1,9 @@
+@import "3rdParty/index";
+@import "components/index";
+@import "project/index";
+@import "flexbox/index";
+@import "variables";
+
+.e2e {
+  pointer-events: none !important;
+}
